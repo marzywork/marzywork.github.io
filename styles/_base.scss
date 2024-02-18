@@ -1,0 +1,22 @@
+body, html {
+    font-family: $font_family;
+    font-size: 16px;
+}
+
+body {
+    height: 300vh;
+}
+
+h2 {
+    font-size: 32px;
+    color: #420000;
+    font-weight: 700;
+}
+
+h1 {
+    color: #03045e;
+}
+
+h1, h2, h3, p, a {
+    font-family: "Poppins", sans-serif;
+}
